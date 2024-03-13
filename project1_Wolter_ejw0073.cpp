@@ -102,10 +102,7 @@ int main() {
          totalInterest += interest;  
          balInitial = balFinal;
       }
-      //else {
-         //cout << "Insufficent Payment\n";
-         //return 1;
-      //}
+   
    }
    else {
       cout << "Insufficent Payment\n";
